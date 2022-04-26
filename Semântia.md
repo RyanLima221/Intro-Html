@@ -23,3 +23,30 @@
   O elemento footer marca a área inferior, normalmente conhecida como rodapé, do conteúdo geral do documento ou do conteúdo de uma seção específica a qual ele está subordinado.
   ### h1 ---- h6
   Os elementos HTML representam seis níveis de título de seção. <h1> é o nível de seção mais alto e <h6> é o mais baixo.
+# Exemplo com meu site
+  <!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Ryan de Lima</title>
+	</head>
+	<body>
+		<header>
+			<h1>Ryan de Lima</h1>
+		</header>
+			<section>
+		<header>
+			<h2>Posts</h2>
+		</header>
+		<article>
+		<header>
+			<h3>Post #1</h3>
+		</header>	
+		</article>
+			</section>
+			<footer></footer>
+	</body>
+	
+</html>
