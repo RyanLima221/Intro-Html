@@ -9,7 +9,8 @@
           </div>
   </div>
   </div>
-  ## Semânticas
+
+# Semânticas
 
   Em 2014 foi adicionado novas semânticas, sendo elas:
   ### section
