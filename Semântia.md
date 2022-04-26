@@ -9,7 +9,8 @@
           </div>
   </div>
   </div>
-  
+  ## Semânticas
+
   Em 2014 foi adicionado novas semânticas, sendo elas:
   ### section
   O elemento HTML representa uma seção genérica contida em um documento HTML, geralmente com um título, quando não existir um elemento semântico mais específico para representá-lo.
