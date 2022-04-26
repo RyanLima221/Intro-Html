@@ -1,6 +1,6 @@
 #Estrutura básica do html
 
-##"<!DOCTYPE html>"
+##!DOCTYPE html
 
 A primeira linha do documento deve ser o <!DOCTYPE html>, apesar de parecer um elemento HTML ela apenas diz ao navegador que ele está lidando com um arquivo do tipo HTML5. Os elementos HTML vem logo abaixo.
 
